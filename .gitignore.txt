@@ -1,0 +1,20 @@
+# System & temp files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive sync files
+*.lnk
+~$*
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node or Python folders (if you're using them)
+node_modules/
+__pycache__/
